@@ -1,2 +1,2 @@
 # metacoin
-# metacoin
+# kkmetacoin
